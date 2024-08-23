@@ -225,3 +225,6 @@ pickupAutocomplete();
 dropoffAutocomplete();
 initFlatpickr();
 predict();
+// script.js
+
+const taxiFareApiUrl = 'https://taxifare.lewagon.ai/predict';
